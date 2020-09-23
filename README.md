@@ -1,5 +1,5 @@
 # Reproducible_Research
-Author: Aditya Vikram Dash <br />
+Author: Valery P. Orjuela <br />
 ## Projects 
 Project # | Markdown | R Markdown
 --- | --- | ---
