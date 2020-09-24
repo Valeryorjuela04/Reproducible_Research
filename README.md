@@ -4,5 +4,6 @@ Author: Valery P. Orjuela <br />
 Project # | Markdown | R Markdown
 --- | --- | ---
 
-1 |  [Reproducible Research Project 1 (.md)](https://github.com/Valeryorjuela04/Reproducible_Research/tree/master/Project1) | [Reproducible Research Project 1 (.Rmd)]
+1 |  [Reproducible Research Project 1 (.md)](https://github.com/Valeryorjuela04/Reproducible_Research/tree/master/Project1) |
+
 2 |  [Reproducible Research Project 2 (.md)](https://github.com/Valeryorjuela04/Reproducible_Research/tree/master/Project2)
